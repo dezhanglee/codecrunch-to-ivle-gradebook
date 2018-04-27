@@ -1,2 +1,1 @@
-# codecrunch-to-ivle-gradebook
-Simple python script to convert marks downloaded from gradebook to a format recognized by ivle gradebook for batch uploading 
+Simple python script which converts the codecrunch csv marks file to a format which is recognized by ivle gradebook. Output file will still be in csv format, use a spreadsheet editor (eg. excel, google sheets) to convert the csv file into xls or xlsx format.
