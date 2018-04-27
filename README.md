@@ -5,10 +5,13 @@ Chooses the best two out of three marks to average out and arrive at the final s
 (Will add remarks as I come along) 
 
 Remark. //
+
 Output file will still be in csv format, but ivle requires xls/xlsx format. Use a spreadsheet editor (eg. excel, google sheet) to convert the csv file into xls or xlsx format.
 
 Remark. // 
+
 Can take in any number of files (using Python's * operator). But make sure no duplicate entries, or the calculation will likely go wrong. 
 
 Remark. //
+
 For Python 3, won't work on Python 2. 
